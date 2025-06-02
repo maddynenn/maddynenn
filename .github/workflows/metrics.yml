@@ -14,17 +14,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token (automatically provided)
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Basic config
           user: maddynenn
           template: classic
-          base: header, activity, community, repositories, metadata
-          
-          # Isocalendar plugin
+          base: ""  # This removes header, activity, etc.
+    
+    # Only the isocalendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # Output file
+    
           filename: metrics.svg
