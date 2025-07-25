@@ -1,4 +1,4 @@
-![hell yea](https://github.com/user-attachments/assets/95bdbbd1-579b-4261-abab-0d0464cf4f25)
+![totally_tubular2](https://github.com/user-attachments/assets/92f2c953-d748-4db3-a98b-4fb9de811404)
 # About Me:
 Hi! I'm Maddy, and I am a second-year computer science major studying at Northeastern University.
 
