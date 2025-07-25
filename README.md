@@ -1,4 +1,5 @@
-# 💫 About Me:
+![hell yea](https://github.com/user-attachments/assets/95bdbbd1-579b-4261-abab-0d0464cf4f25)
+# About Me:
 Hi! I'm Maddy, and I am a second-year computer science major studying at Northeastern University.
 
 
